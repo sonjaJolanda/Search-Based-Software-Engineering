@@ -1,0 +1,4 @@
+fuzzingbook==1.0
+Numpy
+scipy
+tqdm
