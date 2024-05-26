@@ -1,0 +1,51 @@
+Teilmenge potentielle Klausurfragen vom SoSe 23
+
+Nennen Sie drei Challenges für die Optimierung?
+Was ist eine Metaheuristic?
+Wann garantiert eine Metaheuristic das Finden des globalen Optimums?
+Warum ist Gradient Ascent nicht anwendbar?
+
+Was bedeuten Mu und Lambda und welche Verfahren gibt es für Hill Climbing?
+Wie funktioniert Gaussian Convolution?
+Wie lautet die Formel für Simulated Annealing (Energieberechnung)?
+Was macht Iterated Local Search?
+
+Wie funktioniert das Lösen eines CSP?
+Was ist Arc Consistency?
+Welche zwei Optimierung bzw. Ordering haben wir kennen gelernt?
+Was ist die Idee hinter Tree-Based Optimization?
+Gegeben ist folgendes Constraint Satisfaction Problem: Variablen ... Domänen ... Zustand ...
+Stellen Sie die Arc-Consistency dieses Problems sicher. Schließen Sie daraus, ob es noch zu einer validen Lösung führen kann und falls nicht, berichten Sie wo das Problem liegt.
+
+Welche 4 Schritte muss man beim evolutionären Algorithmus haben?
+Wie funktioniert Stoachstic Universal Sampling (Erklärung mit Beispiel und Grafik)?
+Erläutern Sie Tournament Selection und erörtern Sie in welchen Situationen Sie Ihn einsetzen würden.
+Geben Sie eine Intuition, warum Tournament Selection oftmals gute Kandidaten findet.
+Wie funktioniert Inermediate Line Recombination (geben Sie dazu die Formel bzw. Code Schnipsel an)?
+Was ist der Unterschied von Steady-State GA zu normalen GA?
+Erklären Sie das Optimierungsverfahren Scatter Search.
+Wie wird Diversity von Individuen berechnet?
+Was ist das besondere an Differential Evolution?
+Erläutern Sie den Unterschied von Particle Swarm Optimization zu GA.
+Wie läuft in PSO der Updateprozess inkl. Positions-Update Formel?
+
+Was ist eine Hamming Cliff?
+Wie funktioniert eine Mutation im nicht-parametrischen Raum?
+Und wie im Metrischen Raum?
+Wie mutiert man Graph-Strukturen? Wie Crossover?
+Welche Ansätze zur Generierung von Programmen haben Sie kennengelernt?
+
+Was sind die Probleme bei naiven Multi-Objective Optimierungen?
+Wie kann man diese noch verbessern?
+Was ist eine Pareto Front und was ist die Pareto Dominance?
+Wie berechnen wir Front Ranks?
+Was ist non-dominated sorting und wie gehen wir dabei vor?
+Wie berechnen wir die Sparsity einer Region und warum ist das nützlich?
+Wie berechnen wir die Wimpiness und warum ist das potentiell wichtig in einer Optimierung?
+
+Was ist Prompt Engineering?
+Welche Prinzipien des Prompt Engineerings gibt es?
+Was ist der Grundgedanke von Chain of Thought?
+Nennen Sie 3 Techniken des Prompt Engineerings.
+
+Zuletzt geändert: Montag, 3. Juli 2023, 09:19
